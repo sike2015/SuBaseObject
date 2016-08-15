@@ -11,6 +11,7 @@
 @implementation TestObject
 
 
+//重写当前方法 
 +(NSMutableDictionary *)currentSetKey{
     
     NSMutableDictionary *setDict = [NSMutableDictionary dictionary];
